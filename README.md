@@ -17,3 +17,5 @@ Delivery Details
 Delivery Address: Datar Cancer Genetics Private Limited F-8,D- Road, Ambad Nashik - 422010.
 
 Note: Kindly make sure that the sample will be reach Nashik within 24 hrs from the Pick – up time.
+
+Deploy - http://localhost:8501/#pickup-details
